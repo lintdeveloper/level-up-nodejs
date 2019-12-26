@@ -1,3 +1,3 @@
-# Lafya Backend API
+# level-up-nodejs
 
-- [X] Setup standard project structure
+- [X] setup standard project structure
